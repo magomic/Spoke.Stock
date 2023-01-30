@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>function</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">a9dcd1d097f82110dcc4bf1e6253afc8</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-30 20:24:37</sys_created_on>
+        <sys_id>857e95d097f82110dcc4bf1e6253afd9</sys_id>
+        <sys_name>function</sys_name>
+        <sys_package display_value="ET Stock Spoke" source="56c1915097b82110dcc4bf1e6253afc8">56c1915097b82110dcc4bf1e6253afc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ET Stock Spoke">56c1915097b82110dcc4bf1e6253afc8</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_857e95d097f82110dcc4bf1e6253afd9</sys_update_name>
+        <value>CURRENCY_EXCHANGE_RATE</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
